@@ -1,7 +1,7 @@
-#Sun Mar 20 09:39:41 CST 2022
-base.1=/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+#Thu Mar 31 15:18:36 CST 2022
+base.1=/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
 path.1=6/classes.dex
-base.0=/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=0/classes.dex

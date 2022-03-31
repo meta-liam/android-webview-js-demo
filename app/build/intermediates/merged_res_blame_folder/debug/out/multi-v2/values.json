@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/src/main/res/values/styles.xml",
+                    "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "48",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                },
+                {
+                    "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,23 +37,6 @@
                         "endLines": "7",
                         "endColumns": "12",
                         "endOffsets": "368"
-                    }
-                },
-                {
-                    "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "56",
-                        "endColumns": "48",
-                        "endOffsets": "100"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "48",
-                        "endOffsets": "99"
                     }
                 }
             ]

@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-demo/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/liampro/Downloads/pro/git/meta-liam/app-demo/android-webview-js-demo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]
