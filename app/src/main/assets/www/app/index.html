@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+      <meta content="yes" name="apple-mobile-web-app-capable">
+      <meta content="black" name="apple-mobile-web-app-status-bar-style">
+      <meta content="telephone=no" name="format-detection">
+      <meta http-equiv="Expires" content="0">
+      <meta http-equiv="Pragma" content="no-cache">
+      <meta http-equiv="Cache-Control" content="no-store,no-cache">
+    <title>Ios-webview-demo</title>
+<style>
+    body{padding:10px;}
+  .envBox span{ padding-left: 6px; font-size:14;color: red;}
+  .buttonBox button{ padding-left: 6px;line-height: 150%;}
+  body{font-size: 12px;}
+  .inBox{width: 90%; height:50px;}
+  .OutBox{overflow-y: scroll;width: 90%; height:150px;border: dashed red;}
+</style>
+
+  </head>
+  <body>
+    <h1>Ios-webview-demo</h1>
+    <div class="envBox">3-21:17:36:
+    </div>
+    <div class="buttonBox">
+      <button id="ts01" >hello</button>
+      <button id="tsSayHello" >hello-world.say</button>
+    </div>
+
+    <br>
+    输入：<button id="tsSend" >发送</button>
+    <br>
+
+<textarea id="msgInput" class="inBox">{"jsonrpc":"2.0","method":"say","params":"liam","id":1,"service":"hello-world"}</textarea>
+<br>
+输出<br>
+
+<div id="msgOutput" class="OutBox">
+  output..
+</div>
+<script src="./global.js"></script>
+<script src="./renderer.js"></script>
+<br>
+操作：->点击"hello-world.say"
+<br>
+  </body>
+</html>
